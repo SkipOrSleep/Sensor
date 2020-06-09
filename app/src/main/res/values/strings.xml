@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sensor</string>
+
+    <string name="sensor1">Air pr.</string>
+
+    <string name="sensor2">Light</string>
+
+    <string name="sensor3">Angles</string>
+    <string name="sensor4">Azimuth</string>
+    <string name="sensor5">Pitch</string>
+    <string name="sensor6">Roll</string>
+
+    <string name="sensor7">GPS</string>
+    <string name="sensor8">Latitude</string>
+    <string name="sensor9">Longitude</string>
+    <string name="sensor10">Altitude</string>
+    <string name="sensor11">Accuracy</string>
+    <string name="sensor12">Beering</string>
+    <string name="sensor13">Speed</string>
+    <string name="sensor14">Time</string>
+    <string name="sensor15">Provider</string>
+</resources>
